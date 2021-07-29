@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi. 👋 I'm a junior developer with a background in print-making and playing music. I've recently started working with React, and I'm excited to push my abilities and learn more in coding.
 
 <!--
 **MichaelAZimmerman/MichaelAZimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
